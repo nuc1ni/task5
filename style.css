@@ -22,7 +22,113 @@
 .header {
     padding: 69px 0 69px 162px;
 }
-.main.Photo {
+.banner {
     width: 1920px;
     margin-top: 84.36px;
+
+}
+.container {
+    width: 1400px;
+    margin-left: 260px;
+    margin-top: 175px;
+}
+.content {
+    width: 936px;
+    margin-top: 150px;
+    margin-left: 232px;
+    margin-right: 232px;
+    
+}
+.title {
+    color: #274C5B;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+}
+.paragraph {
+    color: #525C60;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Open Sans', sans-serif;
+    text-align: left;
+    margin-top: 28px;
+}
+.content-a-item {
+    width: 936px;
+}
+.left-wraper {
+    display: inline-block;
+    vertical-align: middle;
+
+}
+.right-wraper {
+    display: inline-block;
+    vertical-align: middle;
+}
+.content-b-item {
+    display: inline-block;
+    vertical-align: middle;
+}
+.title-right-wraper {
+    display: inline-block;
+    color: #274C5B;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    
+}
+.paragraph-right-wraper {
+    display: inline-block;
+    color: #525C60;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+
+}
+.title-left-wraper {
+    display: inline-block;
+    color: #274C5B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+    font-weight: 500;
+
+}
+.paragraph-left-wraper {
+    display: inline-block;
+    text-align: left;
+    color: #525C60;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.content-c-item {
+display: inline-block;
+width: 936px;
+}
+.left-wraper-c {
+    display: inline-block;
+}
+.right-wraper-c {
+    display: inline-block;
+}
+.content-d-item {
+    width: 936px;
+
+}
+.title-d {
+    color: #274C5B;
+    font-size: 35px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+}
+.paragraph-d {
+    color: #525C60;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
+.newslatter {
+    width: 1400px;
+    margin-left: 260px;
+
 }
