@@ -72,6 +72,7 @@
     display: inline-block;
     width: 936px;
     gap: 20px;
+    margin-top: 70px;
 }
 .left-wraper {
     display: inline-block;
@@ -86,6 +87,7 @@
 
 .container-c-item {
     display: inline-block;
+    margin-top: 28px;
 }
 .title-right-wraper {
     display: inline-block;
@@ -129,8 +131,10 @@
     margin-left: 232px;
 }
 .content-d-item {
+    display: inline-block;
     width: 936px;
     margin-left: 232px;
+    margin-top: 70px;
 
 }
 .title-d {
@@ -148,5 +152,41 @@
 .newslatter {
     width: 1400px;
     margin-left: 260px;
+    margin-top: 97px;
 
+}
+.footer-container {
+    display: inline-block;
+    width: 1404;
+}
+.title-contact {
+    color: #274C5B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+.contact-image { 
+    margin-top: 33px; 
+}
+.about {
+    width: 543px;
+}
+.footer-logo {
+    vertical-align: middle;
+}
+.footer-paragraph {
+    color: #525C60;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+.Utility-title {
+    color: #274C5B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+.Utility-image {
+    margin-top: 24px;
 }
